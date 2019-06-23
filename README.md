@@ -9,7 +9,7 @@ Updated it to work with the latest version of react-native and latest PayTM SDK.
 ### Installation
 
 ````bash
-npm i --save @philly25/react-native-paytm
+npm i --save git+https://github.com/karanpratapsingh/react-native-paytm.git
 ````
 
 or 
